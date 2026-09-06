@@ -19,7 +19,7 @@ The dashboard provides insights into student academic performance, attendance, s
 
 ## 📊 Dashboard Preview
 
-![Student Performance Dashboard](Dashboard.png)
+![Student Performance Dashboard](Dashboard.png.png)
 
 ## 📈 Key Metrics
 
