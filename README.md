@@ -56,8 +56,8 @@ Users can filter the dashboard by:
 
 | File | Description |
 |---|---|
-| `College_Student_Performance.pbix` | Power BI dashboard |
-| `Dashboard.png` | Dashboard preview |
+| `EDUCATION QUALITY ANALYSISS.pbix` | Power BI dashboard |
+| `Dashboard.png.png` | Dashboard preview |
 | `README.md` | Project documentation |
 
 ## 🎯 Learning Outcome
